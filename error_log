@@ -1,0 +1,58 @@
+[17-Dec-2013 13:31:20] PHP Parse error:  syntax error, unexpected T_PAAMAYIM_NEKUDOTAYIM in /home/studsupp/public_html/4claw.com/protected/models/Pets.php on line 89
+[17-Dec-2013 13:31:23] PHP Parse error:  syntax error, unexpected T_PAAMAYIM_NEKUDOTAYIM in /home/studsupp/public_html/4claw.com/protected/models/Pets.php on line 89
+[17-Dec-2013 13:31:25] PHP Parse error:  syntax error, unexpected T_PAAMAYIM_NEKUDOTAYIM in /home/studsupp/public_html/4claw.com/protected/models/Pets.php on line 89
+[17-Dec-2013 23:54:14] PHP Warning:  require_once(/home/studsupp/public_html/4claw.com/../yii/framework/yii.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/studsupp/public_html/4claw.com/index.php on line 12
+[17-Dec-2013 23:54:14] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/studsupp/public_html/4claw.com/../yii/framework/yii.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/studsupp/public_html/4claw.com/index.php on line 12
+[18-Dec-2013 23:41:13] PHP Fatal error:  Call to a member function saveAs() on a non-object in /home/studsupp/public_html/4claw.com/protected/controllers/PetController.php on line 30
+[19-Dec-2013 11:45:35] PHP Fatal error:  Call to a member function saveAs() on a non-object in /home/studsupp/public_html/4claw.com/protected/controllers/PetController.php on line 81
+[19-Dec-2013 11:50:44] PHP Fatal error:  Call to a member function saveAs() on a non-object in /home/studsupp/public_html/4claw.com/protected/controllers/PetController.php on line 81
+[20-Dec-2013 22:50:13] PHP Fatal error:  Call to a member function saveAs() on a non-object in /home/studsupp/public_html/4claw.com/protected/controllers/ProfileController.php on line 55
+[20-Dec-2013 22:50:21] PHP Fatal error:  Call to a member function saveAs() on a non-object in /home/studsupp/public_html/4claw.com/protected/controllers/ProfileController.php on line 55
+[20-Dec-2013 22:50:34] PHP Fatal error:  Call to a member function saveAs() on a non-object in /home/studsupp/public_html/4claw.com/protected/controllers/ProfileController.php on line 55
+[20-Dec-2013 22:50:40] PHP Fatal error:  Call to a member function saveAs() on a non-object in /home/studsupp/public_html/4claw.com/protected/controllers/ProfileController.php on line 55
+[20-Dec-2013 23:15:32] PHP Fatal error:  Call to a member function saveAs() on a non-object in /home/studsupp/public_html/4claw.com/protected/controllers/PetController.php on line 81
+[21-Dec-2013 21:19:11] PHP Fatal error:  Call to a member function saveAs() on a non-object in /home/studsupp/public_html/4claw.com/protected/controllers/ProfileController.php on line 55
+[21-Dec-2013 21:20:08] PHP Fatal error:  Call to a member function saveAs() on a non-object in /home/studsupp/public_html/4claw.com/protected/controllers/PetController.php on line 81
+[21-Dec-2013 21:29:05] PHP Fatal error:  Call to a member function saveAs() on a non-object in /home/studsupp/public_html/4claw.com/protected/controllers/ProfileController.php on line 55
+[21-Dec-2013 21:34:49] PHP Fatal error:  Call to a member function saveAs() on a non-object in /home/studsupp/public_html/4claw.com/protected/controllers/PetController.php on line 81
+[21-Dec-2013 23:37:04] PHP Fatal error:  Call to a member function saveAs() on a non-object in /home/studsupp/public_html/4claw.com/protected/controllers/PetController.php on line 32
+[25-Dec-2013 16:12:50] PHP Fatal error:  Call to a member function saveAs() on a non-object in /home/studsupp/public_html/4claw.com/protected/controllers/PetController.php on line 32
+[25-Dec-2013 16:27:32] PHP Fatal error:  Call to a member function saveAs() on a non-object in /home/studsupp/public_html/4claw.com/protected/controllers/PetController.php on line 32
+[28-Dec-2013 15:26:05] PHP Fatal error:  Call to undefined function  emtpy() in /home/studsupp/public_html/4claw.com/protected/controllers/ProfileController.php on line 38
+[28-Dec-2013 15:27:05] PHP Fatal error:  Call to undefined function  emtpy() in /home/studsupp/public_html/4claw.com/protected/controllers/ProfileController.php on line 38
+[28-Dec-2013 15:47:35] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/studsupp/public_html/4claw.com/protected/controllers/ProfileController.php on line 57
+[28-Dec-2013 15:48:11] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/studsupp/public_html/4claw.com/protected/controllers/ProfileController.php on line 57
+[28-Dec-2013 15:48:52] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/studsupp/public_html/4claw.com/protected/controllers/ProfileController.php on line 57
+[28-Dec-2013 15:50:29] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/studsupp/public_html/4claw.com/protected/controllers/ProfileController.php on line 57
+[28-Dec-2013 16:48:17] PHP Parse error:  syntax error, unexpected T_STRING in /home/studsupp/public_html/4claw.com/protected/controllers/PetController.php on line 113
+[28-Dec-2013 16:48:19] PHP Parse error:  syntax error, unexpected T_STRING in /home/studsupp/public_html/4claw.com/protected/controllers/PetController.php on line 113
+[28-Dec-2013 16:49:14] PHP Parse error:  syntax error, unexpected T_STRING in /home/studsupp/public_html/4claw.com/protected/controllers/PetController.php on line 113
+[28-Dec-2013 16:49:47] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/studsupp/public_html/4claw.com/protected/controllers/PetController.php on line 116
+[28-Dec-2013 16:49:50] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/studsupp/public_html/4claw.com/protected/controllers/PetController.php on line 116
+[28-Dec-2013 16:52:28] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/studsupp/public_html/4claw.com/protected/controllers/PetController.php on line 177
+[28-Dec-2013 16:52:29] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/studsupp/public_html/4claw.com/protected/controllers/PetController.php on line 177
+[28-Dec-2013 16:52:29] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/studsupp/public_html/4claw.com/protected/controllers/PetController.php on line 177
+[28-Dec-2013 16:52:29] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/studsupp/public_html/4claw.com/protected/controllers/PetController.php on line 177
+[28-Dec-2013 16:52:29] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/studsupp/public_html/4claw.com/protected/controllers/PetController.php on line 177
+[28-Dec-2013 16:52:29] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/studsupp/public_html/4claw.com/protected/controllers/PetController.php on line 177
+[28-Dec-2013 16:52:29] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/studsupp/public_html/4claw.com/protected/controllers/PetController.php on line 177
+[28-Dec-2013 16:52:31] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/studsupp/public_html/4claw.com/protected/controllers/PetController.php on line 177
+[28-Dec-2013 16:52:35] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/studsupp/public_html/4claw.com/protected/controllers/PetController.php on line 177
+[28-Dec-2013 16:52:55] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/studsupp/public_html/4claw.com/protected/controllers/PetController.php on line 177
+[28-Dec-2013 16:52:56] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/studsupp/public_html/4claw.com/protected/controllers/PetController.php on line 177
+[02-Jan-2014 16:15:33] PHP Parse error:  syntax error, unexpected $end in /home/studsupp/public_html/4claw.com/protected/controllers/PetController.php on line 141
+[09-Jan-2014 10:02:40] PHP Parse error:  syntax error, unexpected '{' in /home/studsupp/public_html/4claw.com/protected/views/pet/index.php on line 29
+[09-Jan-2014 10:02:42] PHP Parse error:  syntax error, unexpected '{' in /home/studsupp/public_html/4claw.com/protected/views/pet/index.php on line 29
+[09-Jan-2014 10:02:43] PHP Parse error:  syntax error, unexpected '{' in /home/studsupp/public_html/4claw.com/protected/views/pet/index.php on line 29
+[10-Jan-2014 00:19:19] PHP Parse error:  syntax error, unexpected $end in /home/studsupp/public_html/4claw.com/protected/views/index/contact.php on line 53
+[12-Jan-2014 17:09:10] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home/studsupp/public_html/4claw.com/protected/views/index/index.php on line 86
+[16-Jan-2014 11:01:34] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/studsupp/public_html/4claw.com/protected/controllers/AjaxController.php on line 11
+[16-Jan-2014 11:01:36] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/studsupp/public_html/4claw.com/protected/controllers/AjaxController.php on line 11
+[16-Jan-2014 11:01:38] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/studsupp/public_html/4claw.com/protected/controllers/AjaxController.php on line 11
+[16-Jan-2014 11:15:02] PHP Parse error:  syntax error, unexpected T_RETURN in /home/studsupp/public_html/4claw.com/protected/helpers/WorldCities.php on line 15
+[16-Jan-2014 11:15:07] PHP Parse error:  syntax error, unexpected T_RETURN in /home/studsupp/public_html/4claw.com/protected/helpers/WorldCities.php on line 15
+[16-Jan-2014 11:15:25] PHP Parse error:  syntax error, unexpected T_RETURN in /home/studsupp/public_html/4claw.com/protected/helpers/WorldCities.php on line 15
+[16-Jan-2014 11:15:50] PHP Parse error:  syntax error, unexpected T_RETURN in /home/studsupp/public_html/4claw.com/protected/helpers/WorldCities.php on line 15
+[16-Jan-2014 11:15:51] PHP Parse error:  syntax error, unexpected T_RETURN in /home/studsupp/public_html/4claw.com/protected/helpers/WorldCities.php on line 15
+[22-Jan-2014 18:20:44] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/studsupp/public_html/4claw.com/protected/controllers/PetController.php on line 18
+[22-Jan-2014 18:20:54] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/studsupp/public_html/4claw.com/protected/controllers/PetController.php on line 18
